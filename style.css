@@ -1,0 +1,45 @@
+body{
+    text-align:center;
+    
+}
+.line{
+    background-color: black;
+    width:100px;
+    height:10px;
+    margin:  20px auto;
+}
+#apps{
+    background-color: deepskyblue;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-left: -10px;
+    margin-right: -10px;
+    
+}
+#chatbot{
+     background:linear-gradient(#f0b4dd,#e6918a,#b6eb9d,#81bfde);
+ padding-top:20px;
+    padding-bottom: 20px;
+   margin-left: -10px;
+    margin-right: -10px;
+}
+#games img{
+    margin-right: 70px;
+    border: 3px solid crimson;
+    width: 300px;
+    height: 300px;
+}
+img{
+    transition: transform 0.2s;
+    
+}
+img:hover{
+    transform: scale(0.9); 
+}
+#games{
+    background-color: darkorange;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
